@@ -1,0 +1,3 @@
+gcc -g I./lib/libfdr -c 
+
+gcc -g -o homeworkweek5 homeworkweek5.c ./lib/libfdr/libfdr.a 
