@@ -1,0 +1,1 @@
+gcc -o main 2015.c graph.c libfdr.a
